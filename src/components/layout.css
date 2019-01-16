@@ -3,9 +3,11 @@
     padding: 0;
     box-sizing: border-box;
 }
-
+:root{
+    --mainOrange: #f15025;
+}
 body {
     font-family: 'caveat', cursive;
-    color: red;
-    background: blue;
+    color: black;
+    background: white;
 }
